@@ -1,2 +1,2 @@
 - Hi, I’m @Dyza-Labs! 👋
-- I'm currently learning development, multimedia, and everything in between!
+- I'm currently learning development, multimedia, and everything in between.
